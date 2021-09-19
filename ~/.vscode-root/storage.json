@@ -104,7 +104,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1492,7 +1493,7 @@
             "backupPath": "/home/bineet/UdemyCourses/Docker&Kubernetes/frontend/~/.vscode-root/Backups/2713aa19760c8770e09f5784a1210c3b",
             "uiState": {
                 "mode": 0,
-                "x": 1964,
+                "x": 677,
                 "y": 37,
                 "width": 1386,
                 "height": 752

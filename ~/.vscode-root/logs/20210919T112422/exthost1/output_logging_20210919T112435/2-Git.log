@@ -453,3 +453,42 @@ Open repository: /home/bineet/UdemyCourses/Docker&Kubernetes/frontend
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s d2d402226ec6b023fd5a4499f022d0642b5f4b4d
+> git config --get commit.template
+> git show --textconv :Dockerfile
+> git show --textconv :Dockerfile.prod
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile.prod
+> git cat-file -s ad46f9efa4af031dc2e8281b790229005b91d7f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.travis.yml
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/.travis.yml
+> git cat-file -s 2d5d2062014f77ecfdbcb8ea72ac865610ee7207
+> git show --textconv :Dockerfile.prod
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile.prod
+> git cat-file -s ad46f9efa4af031dc2e8281b790229005b91d7f5
+> git show --textconv :.travis.yml
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/.travis.yml
+> git cat-file -s 2d5d2062014f77ecfdbcb8ea72ac865610ee7207
+> git show --textconv :Dockerfile
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile
+> git cat-file -s d2d402226ec6b023fd5a4499f022d0642b5f4b4d
+> git show --textconv :.travis.yml
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/.travis.yml
+> git cat-file -s 2d5d2062014f77ecfdbcb8ea72ac865610ee7207
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

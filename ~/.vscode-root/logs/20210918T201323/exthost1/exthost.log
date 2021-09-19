@@ -1,0 +1,25 @@
+[2021-09-18 20:13:31.461] [exthost] [info] extension host started
+[2021-09-18 20:13:31.461] [exthost] [info] Skipping acquiring lock for /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/~/.vscode-root/User/workspaceStorage/289ff6e4a0bce015baae3828c42cdc3d.
+[2021-09-18 20:13:31.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-18 20:13:31.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-18 20:13:31.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-18 20:13:31.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-18 20:13:31.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-18 20:13:31.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/git/dist/main
+[2021-09-18 20:13:32.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-18 20:13:32.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-09-18 20:13:32.267] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onLanguage:dockerfile"}
+[2021-09-18 20:13:32.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1/main
+[2021-09-18 20:13:35.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-18 20:13:35.984] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-09-18 20:13:36.148] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-18 20:13:36.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-18 20:13:37.159] [exthost] [info] eager extensions activated
+[2021-09-18 20:13:37.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-18 20:13:37.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-18 20:13:37.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-18 20:13:37.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-18 20:13:37.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-18 20:13:37.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-18 23:39:45.337] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-18 23:39:46.351] [exthost] [info] exiting with code 0

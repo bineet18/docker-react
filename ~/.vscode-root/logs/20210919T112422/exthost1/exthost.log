@@ -21,3 +21,9 @@
 [2021-09-19 11:24:37.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
 [2021-09-19 11:24:38.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
 [2021-09-19 11:24:38.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-19 16:22:51.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-19 16:22:51.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-19 16:22:51.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-19 16:22:51.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-19 16:22:51.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-09-19 16:22:51.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/74/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain

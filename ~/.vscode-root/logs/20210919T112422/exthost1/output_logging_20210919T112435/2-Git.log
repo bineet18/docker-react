@@ -727,3 +727,36 @@ Open repository: /home/bineet/UdemyCourses/Docker&Kubernetes/frontend
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/.travis.yml
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git cat-file -s 7bd490095a182dd72f1705abc310fa75ebc8096d
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :.travis.yml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Dockerfile.dev
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile.dev
+> git cat-file -s c5270d26932cecf2415a2de3bb4b0dde98b69b82
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Dockerfile
+> git ls-files --stage -- /home/bineet/UdemyCourses/Docker&Kubernetes/frontend/Dockerfile
+> git cat-file -s 787f81477307a0ca7bad36de7c9e24d22cb0d405
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
